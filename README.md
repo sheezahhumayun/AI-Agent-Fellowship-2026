@@ -3,9 +3,6 @@
 # 👋 Hi, I'm Sheezah Humayun
 
 **Computer Science Undergraduate | Full-Stack Developer | AI & Systems Enthusiast**
-
-Welcome to my AI Summer Internship 2026 fellowship repository. This repository documents my learning journey, weekly assignments, projects, experiments, and progress throughout the **Visibility Bots Innovation Lab – AI Summer Internship 2026 (Track 2: NLP & AI Agents)**.
-
 ---
 
 ## 🎓 About Me
